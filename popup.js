@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
         infoInput.value =
           data.infoText || "Please don't put too much expectation on me 😔 .";
         placeholderInput.value =
-          data.placeholderText || "What's in your brain(🧠)? 🤔";
+          data.placeholderText || "What's on your brain(🧠)? 🤔";
         hideSelect.value = data.hideElement || "show";
       }
     );

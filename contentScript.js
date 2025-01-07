@@ -40,7 +40,7 @@ const applyModifications = (settings) => {
   );
 
   updatePlaceholderCSS(
-    settings.placeholderText || "What's in your brain(🧠)? 🤔"
+    settings.placeholderText || "What's on your brain(🧠)? 🤔"
   );
 
   hideOrShowElement(
