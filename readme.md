@@ -103,7 +103,7 @@
   - Make sure you are on `chatgpt.com` as the extension only works on this domain.
 
 - **Need Help?**
-  - [Submit an issue](https://github.com/your-repo-link) or email us at `support@chatgtk.com`.
+  - [Submit an issue](https://github.com/tykealy/chatgtk.git) or email us at `tykeaboyloy@gmail.com`.
 
 ---
 
