@@ -74,11 +74,11 @@
 
 ## Screenshots
 
-![alt text](image-1.png)
+!['screenshot'](image-5.png)
 
 ### Popup Interface
 
-!['PopUp Window'](image.png)
+![PopUp](image-6.png)
 
 ### Customization in Action
 
@@ -89,7 +89,7 @@
   <img src="image-3.png" alt="Customization Example 2" width="45%">
 </p>
 
-![alt text](image-4.png)
+![alt text](image-7.png)
 
 ---
 
