@@ -44,7 +44,7 @@
 
 4. **Load the Extension:**
    - Click **"Load unpacked"**.
-   - Select the folder containing the extension files.
+   - Select the cloned folder containing the extension files.
 
 5. **Activate the Extension:**
    - Once loaded, the extension icon will appear in the Chrome toolbar.
