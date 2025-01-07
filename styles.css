@@ -1,0 +1,4 @@
+p.placeholder::after {
+  --tw-content: "What's on your mind tk? 🤔" !important;
+  content: var(--tw-content) !important;
+}
