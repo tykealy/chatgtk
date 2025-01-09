@@ -47,6 +47,11 @@ const applyModifications = (settings) => {
     "div.flex.flex-col.py-2.empty\\:hidden.dark\\:border-white\\/20",
     settings.hideElement || "show"
   );
+
+  hideOrShowElement(
+    "div._profileInContent_1fdba_297",
+    settings.hideElement || "show"
+  );
 };
 
 const observeDOMChanges = () => {
